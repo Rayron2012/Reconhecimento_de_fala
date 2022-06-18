@@ -21,7 +21,7 @@ with sr.Microphone(device_index=2) as microfone:
           texto = rec.recognize_google(audio, language='pt-BR')
           print(texto)
      except:
-          print("Fala direito alienigena Fela da Puta")
+          print("Fale de forma mais clara! ")
 
 
 
