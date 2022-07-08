@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5662fc5-0388-4daa-8076-5ec15bc3a2f6" name="Changes" comment="Efetuei alterações nos dispositivos de audio para que reconhece-se o dispositivo da nvidia.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a5662fc5-0388-4daa-8076-5ec15bc3a2f6" name="Changes" comment="Efetuei alterações nos dispositivos de audio para que reconhece-se o dispositivo da nvidia." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
